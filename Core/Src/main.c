@@ -11,6 +11,7 @@
 #include <lcd.h>
 #include "stm32f10x.h"
 
+
 /* @PT
  * main.c: configura o GPIOA5 como saÃ­da e activa-a (ligando o LED da placa)
  * Abrir o ficheiro RM0008  - Reference Manual do STM32F103xx.
